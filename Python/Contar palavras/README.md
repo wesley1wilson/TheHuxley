@@ -22,16 +22,12 @@ Um inteiro indicando a quantidade de palavras na string, seguido de um fim de li
   <tr>
     <td>
       <div>
-        555<br>
-        777<br>
-        666<br>
+        casa amarela<br>
       </div>
     </td>
     <td>
       <div>
-        555<br>
-        666<br>
-        777<br>
+        2<br>
       </div>
     </td>
 </table>
